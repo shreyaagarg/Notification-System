@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} Student Registration {% endblock %}
+
+
+{% block main %}
+
+   <form method="post" action="{% url 'accounts:Proflogout' %}">
+   {% csrf_token %}
+   <input type="submit" value="logout" >
+   </form>
+
+{% endblock %}

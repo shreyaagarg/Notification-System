@@ -1,0 +1,240 @@
+{% extends 'base.html' %}
+
+{% block main %}
+
+<!--Header-->
+	<div class="header" id="home">
+		<!--/top-bar-->
+		<div class="top-bar">
+			<div class="header-nav-agileits">
+
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+						<h1><a class="navbar-brand" href="index.html">E-Notification <span>System</span></a></h1>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+						<nav>
+							<ul class="top_nav">
+								<li><a href="" class="active">Home</a></li>
+								<li><a href="">About</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="Pages" role="button" aria-haspopup="true" aria-expanded="false">Registration Section<span class="fa fa-angle-down"></span></a>
+									<ul class="dropdown-menu">
+										<li><a href="{% url 'accounts:StuSignUp' %}">Student</a></li>
+										<li><a href="{% url 'accounts:FacSignUp' %}">Faculty</a></li>
+									</ul>
+								</li>
+
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="Pages" role="button" aria-haspopup="true" aria-expanded="false">Log-in Section<span class="fa fa-angle-down"></span></a>
+									<ul class="dropdown-menu">
+										<li><a href="{% url 'accounts:StuLogIn' %}">Student</a></li>
+										<li><a href="{% url 'accounts:FacLogIn' %}">Faculty</a></li>
+									</ul>
+								</li>
+
+								<li><a href="">Contact</a></li>
+							</ul>
+						</nav>
+					</div>
+				</nav>
+
+			</div>
+		</div>
+		<!--// banner-text -->
+	</div>
+		<!--//top-bar-->
+		<!-- banner-text -->
+		<div class="slider">
+			<div class="callbacks_container">
+				<ul class="rslides callbacks callbacks1" id="slider4">
+					<li>
+						<div class="banner-top">
+							<div class="banner-info-w3ls-agileinfo">
+								<h3>Easy and Quick Services.</h3>
+
+							</div>
+
+						</div>
+					</li>
+					<li>
+						<div class="banner-top1">
+							<div class="banner-info-w3ls-agileinfo">
+								<h3>Reduce Dependencies</h3>
+
+							</div>
+
+						</div>
+					</li>
+					<li>
+						<div class="banner-top2">
+							<div class="banner-info-w3ls-agileinfo">
+								<h3>Connectify Yourself.</h3>
+
+							</div>
+
+						</div>
+					</li>
+					<li>
+						<div class="banner-top3">
+							<div class="banner-info-w3ls-agileinfo">
+								<h3>Education is a path, not a destination</h3>
+
+							</div>
+
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="clearfix"> </div>
+
+			<!--banner Slider starts Here-->
+		</div>
+		<!--//Slider-->
+
+	<!--/what-wedo-->
+	<div class="top_spl_courses">
+		<div class="container">
+			<h3 class="headerw3">3 Different Layouts</h3>
+			<div class="inner_sec_w3_agileinfo">
+
+				<div class="col-md-6 edu-left">
+					<h4 class="sub-hdng two">For Your Digital Life</h4>
+					<p class="paragraph">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+						eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+					<p class="paragraph two">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+						eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+				</div>
+				<div class="col-md-6 edu_img">
+					<img src="images/stretch.jpg" alt=" " class="img-responsive">
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--/what-wedo-->
+
+
+	<div class="services">
+		<div class="container">
+			<h3 class="headerw3">Featured Courses</h3>
+			<div class="inner_sec_w3_agileinfo">
+				<div class="col-md-4 grid_info_main">
+					<div class="grid_info">
+						<div class="icon_info">
+							<span class="fa fa-line-chart" aria-hidden="true"></span>
+							<h5>Financial Analyst Course</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+					<div class="grid_info second">
+						<div class="icon_info">
+							<span class="fa fa-bookmark" aria-hidden="true"></span>
+							<h5>Discipline</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 grid_info_main">
+					<div class="grid_info">
+						<div class="icon_info">
+							<span class="fa fa-bicycle" aria-hidden="true"></span>
+							<h5>Sport Exercise Sciences</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+					<div class="grid_info second">
+						<div class="icon_info">
+							<span class="fa fa-female" aria-hidden="true"></span>
+							<h5>Life style</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 grid_info_main">
+					<div class="grid_info">
+						<div class="icon_info">
+							<span class="fa fa-laptop" aria-hidden="true"></span>
+							<h5>It and Software</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+					<div class="grid_info second">
+						<div class="icon_info">
+							<span class="fa fa-home" aria-hidden="true"></span>
+							<h5>Interior Design</h5>
+							<p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--//services-->
+	<!--/top_spl_courses-->
+
+	<div class="top_spl_courses">
+		<div class="container">
+			<h3 class="headerw3">How it works</h3>
+			<div class="inner_sec_w3_agileinfo">
+				<div class="tabs-grids">
+					<div id="parentVerticalTab">
+						<ul class="resp-tabs-list hor_1">
+							<li>Coursework</li>
+							<li>Help & Support</li>
+							<li>Certificates</li>
+
+
+						</ul>
+						<div class="resp-tabs-container hor_1">
+							<div class="text-info">
+								<h4>Coursework</h4>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accUKntium doloremque laudantium, totam rem aperiam,
+									eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+								<p class="sec">Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
+									voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid
+									ex ea commodi consequatur.</p>
+								<img src="images/banner1.jpg" alt=" " class="img-responsive" />
+
+							</div>
+							<div class="text-info">
+								<h4>Help & Support</h4>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accUKntium doloremque laudantium, totam rem aperiam,
+									eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+								<p class="sec">Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
+									voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid
+									ex ea commodi consequatur.</p>
+								<img src="images/banner2.jpg" alt=" " class="img-responsive" />
+
+							</div>
+
+							<div class="text-info">
+								<h4>Certificates</h4>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accUKntium doloremque laudantium, totam rem aperiam,
+									eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+								<p class="sec">Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
+									voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid
+									ex ea commodi consequatur.</p>
+								<img src="images/banner3.jpg" alt=" " class="img-responsive" />
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--//what-we-do-->
+
+{% endblock %}
