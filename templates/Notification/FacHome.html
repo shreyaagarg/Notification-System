@@ -1,2 +1,53 @@
 {% extends 'baseFac.html' %}
 
+{% block main %}
+
+    <hr>
+    <div class="container target">
+        <div class="row">
+            <div class="col-sm-10">
+                 <h1 class="">{{ object.Name }}</h1>
+                <br>
+                <button type="button" class="btn btn-md btn-success">Schedule new notification</button>
+                <button type="button" class="btn btn-md btn-primary">See Previous Notifications</button>
+                <button type="button" class="btn btn-md btn-info">More</button>
+                <br>
+
+            </div>
+
+
+          <div class="col-sm-2"><a href="" class="pull-right"><img title="profile image" class="img-circle img-responsive" src="https://outreachwebseo.com/wp-content/uploads/2016/07/blank-profile.png"></a>
+            </div>
+        </div>
+      <br>
+        <div class="row">
+            <div class="col-sm-3">
+                <!--left col-->
+                <ul class="list-group">
+                    <li class="list-group-item text-muted" contenteditable="false">Profile</li>
+                    <li class="list-group-item text-right"><span class="pull-left"><strong class="">Faculty ID</strong></span>{{ object.Faculty_ID }}</li>
+                    <li class="list-group-item text-right"><span class="pull-left"><strong class="">Department</strong></span>{{ object.get_Department_display }}</li>
+                    <li class="list-group-item text-right"><span class="pull-left"><strong class="">Designation</strong></span>{{ object.get_Designation_display }}</li>
+                </ul>
+            </div>
+
+            <!--/col-3-->
+            <div class="col-sm-9" style="" contenteditable="false">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Qualification</div>
+                    <div class="panel-body">{{ object.Qualification }}</div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">Contact Number</div>
+                    <div class="panel-body">{{ object.Contact_Number }}</div>
+                </div>
+
+               <div class="panel panel-default">
+                    <div class="panel-heading">Email ID</div>
+                    <div class="panel-body">{{ user.email }}</div>
+               </div>
+            </div>
+    </div>
+    </div>
+
+{% endblock %}
