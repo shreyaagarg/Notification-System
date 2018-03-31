@@ -2,211 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41c8f85-ebcd-4d6a-a62e-038db949059a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontello.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontello.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontello.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/app1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/app_mb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/banner4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/c-arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/class.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/class2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/g7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/gal8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/model.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/scroll-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/stretch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/t1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/t2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/t3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/t4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/top_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/images/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontello.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontello.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontello.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/app1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/app_mb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/back1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/back2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/banner4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/c-arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/class.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/class2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/g7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/gal8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/model.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/scroll-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/stretch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/t1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/t2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/t3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/t4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/top_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/images/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syll.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Notification_system.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CourseInfo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0002_auto_20180310_2019.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0003_auto_20180311_0348.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0004_auto_20180311_0442.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0005_auto_20180311_0502.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0006_auto_20180311_0505.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0007_auto_20180311_0505.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0008_auto_20180312_0444.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/0009_authfaculty.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/chocolat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/easy-responsive-tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/css/team.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/fonts/fontello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/bootstrap-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/easyResponsiveTabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/jquery-2.2.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/jquery.chocolat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/jquery.countup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/jquery.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/move-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/responsive-nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/static/DepUpdate/js/responsiveslides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DepUpdate/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification_system/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification_system/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification_system/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification_system/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0002_auto_20180312_0508.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0003_auto_20180313_0859.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0004_auto_20180328_2254.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0005_auto_20180329_2130.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0006_auto_20180330_1659.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0007_auto_20180330_2310.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/chocolat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/easy-responsive-tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/team.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/fonts/fontello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/bootstrap-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/easyResponsiveTabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/jquery-2.2.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/jquery.chocolat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/jquery.countup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/jquery.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/move-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/responsive-nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/static/accounts/js/responsiveslides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/DepUpdate/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/DepUpdate/signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/accounts/FacLogIn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/accounts/FacSignUp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/accounts/StuLogIn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/accounts/StuSignUp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/accounts/logout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notification/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Notification/FacHome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/baseFac.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notification/admin.py" afterPath="$PROJECT_DIR$/Notification/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notification/models.py" afterPath="$PROJECT_DIR$/Notification/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notification/views.py" afterPath="$PROJECT_DIR$/Notification/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notification_system/settings.py" afterPath="$PROJECT_DIR$/Notification_system/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notification_system/urls.py" afterPath="$PROJECT_DIR$/Notification_system/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/static/accounts/css/style.css" afterPath="$PROJECT_DIR$/accounts/static/accounts/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accounts/views.py" afterPath="$PROJECT_DIR$/accounts/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/accounts/FacLogIn.html" afterPath="$PROJECT_DIR$/templates/accounts/FacLogIn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -223,41 +32,63 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notification/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <element signature="e#496#575#0" expanded="false" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Notification/models.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notification_system/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="70" />
+            <state relative-caret-position="144">
+              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="135" column="9" lean-forward="true" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
+              <folding>
+                <element signature="e#456#2380#0" expanded="false" />
+                <element signature="e#2790#4710#0" expanded="false" />
+                <element signature="e#5314#5372#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/accounts/views.py">
+        <entry file="file://$PROJECT_DIR$/Notification/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="142" column="41" lean-forward="false" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+            <state relative-caret-position="126">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding>
-                <element signature="e#456#2380#0" expanded="false" />
-                <element signature="e#2414#2750#0" expanded="false" />
-                <element signature="e#2785#4705#0" expanded="false" />
-                <element signature="e#4739#5075#0" expanded="false" />
-                <element signature="e#5156#5214#0" expanded="false" />
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -268,8 +99,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -304,26 +135,31 @@
         <option value="$PROJECT_DIR$/templates/DepUpdate/index.html" />
         <option value="$PROJECT_DIR$/templates/accounts/join.html" />
         <option value="$PROJECT_DIR$/templates/accounts/login.html" />
-        <option value="$PROJECT_DIR$/Notification_system/settings.py" />
         <option value="$PROJECT_DIR$/DepUpdate/urls.py" />
         <option value="$PROJECT_DIR$/templates/accounts/pass_input.html" />
         <option value="$PROJECT_DIR$/templates/accounts/logout.html" />
         <option value="$PROJECT_DIR$/DepUpdate/models.py" />
         <option value="$PROJECT_DIR$/DepUpdate/admin.py" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/accounts/static/accounts/css/style.css" />
         <option value="$PROJECT_DIR$/templates/accounts/StuSignUp.html" />
         <option value="$PROJECT_DIR$/accounts/admin.py" />
-        <option value="$PROJECT_DIR$/Notification_system/urls.py" />
         <option value="$PROJECT_DIR$/templates/accounts/FacSignUp.html" />
         <option value="$PROJECT_DIR$/accounts/forms.py" />
         <option value="$PROJECT_DIR$/templates/accounts/StuLogIn.html" />
-        <option value="$PROJECT_DIR$/templates/accounts/FacLogIn.html" />
         <option value="$PROJECT_DIR$/accounts/urls.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/Notification/models.py" />
         <option value="$PROJECT_DIR$/accounts/models.py" />
+        <option value="$PROJECT_DIR$/Notification/models.py" />
+        <option value="$PROJECT_DIR$/accounts/static/accounts/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/FacHome.html" />
+        <option value="$PROJECT_DIR$/templates/baseFac.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/accounts/FacLogIn.html" />
+        <option value="$PROJECT_DIR$/Notification_system/settings.py" />
+        <option value="$PROJECT_DIR$/Notification/admin.py" />
+        <option value="$PROJECT_DIR$/Notification/urls.py" />
+        <option value="$PROJECT_DIR$/Notification_system/urls.py" />
         <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/Notification/views.py" />
       </list>
     </option>
   </component>
@@ -339,7 +175,9 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -377,7 +215,71 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,8 +299,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,17 +309,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lifeline-Help" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hp\PycharmProjects\Notification_system\DepUpdate\static\DepUpdate\css" />
-      <recent name="C:\Users\hp\PycharmProjects\Notification_system\DepUpdate" />
-      <recent name="C:\Users\hp\PycharmProjects\Notification_system\static\DepUpdate\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Projects\Notification_system\accounts\static\accounts\images" />
       <recent name="F:\Projects\Notification_system\accounts\static\accounts\css" />
       <recent name="F:\Projects\Notification_system\accounts\static\accounts\js" />
       <recent name="F:\Projects\Notification_system\accounts" />
       <recent name="C:\Users\hp\PycharmProjects\Notification_system\templates\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Notification_system\templates\Notification" />
+      <recent name="C:\Users\hp\PycharmProjects\Notification_system\DepUpdate\static\DepUpdate\css" />
+      <recent name="C:\Users\hp\PycharmProjects\Notification_system\DepUpdate" />
+      <recent name="C:\Users\hp\PycharmProjects\Notification_system\static\DepUpdate\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -723,19 +626,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17019667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2784" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.384" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3824" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -757,7 +660,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="django-line">
           <url>file://$PROJECT_DIR$/templates/base.html</url>
-          <line>122</line>
+          <line>41</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -776,17 +679,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/temp/views.py" />
-    <entry file="file://$PROJECT_DIR$/templates/temp/signup.html" />
-    <entry file="file://$PROJECT_DIR$/temp/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Notification_system/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/apps.py" />
     <entry file="file://$PROJECT_DIR$/templates/temp/home.html" />
     <entry file="file://$PROJECT_DIR$/templates/temp/login.html" />
     <entry file="file://$PROJECT_DIR$/temp/views.py" />
@@ -904,14 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Notification_system/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/DepUpdate/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -919,29 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/static/accounts/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="2527" column="20" lean-forward="true" selection-start-line="2525" selection-start-column="8" selection-end-line="2527" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DepUpdate/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,46 +814,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DepUpdate/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="39" column="76" lean-forward="true" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Notification_system/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/accounts/StuSignUp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="64" column="17" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DepUpdate/urls.py" />
     <entry file="file://$PROJECT_DIR$/templates/accounts/FacSignUp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1043">
@@ -1005,29 +834,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/accounts/FacLogIn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/accounts/StuLogIn.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="73" column="77" lean-forward="false" selection-start-line="73" selection-start-column="77" selection-end-line="73" selection-end-column="77" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,19 +864,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Notification/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/accounts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="738">
           <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
           <folding>
             <element signature="e#496#575#0" expanded="false" />
@@ -1073,16 +874,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+    <entry file="file://$PROJECT_DIR$/accounts/static/accounts/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="3004" column="1" lean-forward="false" selection-start-line="3004" selection-start-column="1" selection-end-line="3004" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/StuSignUp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="66" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="n#block#3;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/baseFac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#block#3;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Notification/FacHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="142" column="41" lean-forward="false" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification_system/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="39" column="76" lean-forward="true" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#112#931#0" expanded="false" />
+            <element signature="e#982#1647#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/FacLogIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="76" column="64" lean-forward="false" selection-start-line="76" selection-start-column="64" selection-end-line="76" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification_system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="135" column="9" lean-forward="true" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
           <folding>
             <element signature="e#456#2380#0" expanded="false" />
-            <element signature="e#2414#2750#0" expanded="false" />
-            <element signature="e#2785#4705#0" expanded="false" />
-            <element signature="e#4739#5075#0" expanded="false" />
-            <element signature="e#5156#5214#0" expanded="false" />
+            <element signature="e#2790#4710#0" expanded="false" />
+            <element signature="e#5314#5372#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notification/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>

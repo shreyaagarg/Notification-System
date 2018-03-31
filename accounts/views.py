@@ -60,7 +60,7 @@ def StuSignUpView(request):
 def StuLogInView(request):
     if request.method == "POST":
 
-        form = AuthenticationForm(request.POST)
+        form = AuthenticationForm(data=request.POST)
         if form.is_valid():
 
             user = form.get_user()
@@ -124,16 +124,21 @@ def FacSignUpView(request):
 def FacLogInView(request):
     if request.method == "POST":
 
-        form = AuthenticationForm(request.POST)
+        form = AuthenticationForm(data=request.POST)
+        print(request.POST)
+        print(form.is_valid())
         if form.is_valid():
 
             user = form.get_user()
             login(request,user)
-            return HttpResponse("Login done")
+            print("1")
+            return redirect('Notification:FacHome' , fac_id= request.user.id)
     else:
+        print("2")
         form = AuthenticationForm()
-
+    print("3")
     return render(request , 'accounts/FacLogIn.html' , {'form':form})
+
 
 @login_required(login_url='/accounts/StuSignUp')
 def Proflogout(request):

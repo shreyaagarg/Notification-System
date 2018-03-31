@@ -12,5 +12,3 @@ class Notif(models.Model):
     related_course = models.ForeignKey(course,on_delete=models.CASCADE)
     uploaded_for = models.ForeignKey(Group)
 
-
-

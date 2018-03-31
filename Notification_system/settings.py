@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'DepUpdate',
     'accounts',
     'phonenumber_field',
+    'Notification'
 ]
 
 MIDDLEWARE = [
